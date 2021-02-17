@@ -1,7 +1,0 @@
-print("\t \t BMI Calculator \t \t  ")
-print("Enter Weight (kg)")
-weight = float(input())
-print("Enter Height (m)squared")
-height = float(input())
-BMI =(weight/height**2)
-print("BMI is {0}".format(BMI)) 
